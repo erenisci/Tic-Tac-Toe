@@ -1,0 +1,132 @@
+/* 592px screens */
+@media (max-width: 37em) {
+  .header {
+    font-size: 6rem !important;
+  }
+
+  .header-p {
+    font-size: 1.6rem !important;
+    margin-top: 4.4rem !important;
+  }
+
+  .hidden {
+    font-size: 4rem !important;
+    bottom: 1.3rem !important;
+  }
+
+  .grid-container {
+    width: 45rem !important;
+    height: 45rem !important;
+  }
+
+  .grids {
+    font-size: 11.5rem !important;
+  }
+  footer {
+    margin-top: 2.5rem !important;
+    width: 45rem !important;
+  }
+
+  footer p {
+    padding-top: 0.3rem !important;
+    font-size: 1.1rem !important;
+  }
+}
+
+/* 448px screens */
+@media (max-width: 29em) {
+  header {
+    height: 15rem !important;
+  }
+
+  .header {
+    font-size: 5rem !important;
+  }
+
+  .header-p {
+    font-size: 1.4rem !important;
+    margin-top: 3rem !important;
+  }
+
+  .hidden {
+    font-size: 3rem !important;
+    bottom: 3rem !important;
+  }
+
+  .container {
+    gap: 1rem !important;
+  }
+
+  .grid-container {
+    width: 36rem !important;
+    height: 36rem !important;
+  }
+
+  .grids {
+    font-size: 9.3rem !important;
+  }
+
+  .again {
+    margin-top: 1.8rem !important;
+    padding: 1.2rem 1.8rem !important;
+    font-size: 1.3rem !important;
+  }
+
+  footer {
+    margin-top: 3rem !important;
+    width: 36rem !important;
+  }
+
+  footer p {
+    padding-top: 0.2rem !important;
+    font-size: 1rem !important;
+  }
+}
+
+/* 384px screens */
+@media (max-width: 24em) {
+  header {
+    height: 13rem !important;
+  }
+
+  .header {
+    font-size: 3.6rem !important;
+  }
+
+  .header-p {
+    font-size: 1.2rem !important;
+    margin-top: 3rem !important;
+  }
+
+  .hidden {
+    font-size: 2.3rem !important;
+    padding: 0 4rem !important;
+    width: 100% !important;
+    bottom: 3.3rem !important;
+  }
+
+  .grid-container {
+    width: 30rem !important;
+    height: 30rem !important;
+  }
+
+  .grids {
+    font-size: 7.3rem !important;
+  }
+
+  .again {
+    margin-top: 1.6rem !important;
+    padding: 1.2rem 1.8rem !important;
+    font-size: 1.1rem !important;
+  }
+
+  footer {
+    margin-top: 5rem !important;
+    width: 30rem !important;
+  }
+
+  footer p {
+    padding-top: 0.3rem !important;
+    font-size: 0.9rem !important;
+  }
+}
